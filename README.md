@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu me chamo Guilherme Mota</h1>
-  <p>🌱 I’m currently learning: Computer Science &nbsp;|&nbsp; 😄 Pronouns: He/Him</p>
+  <p>🌱 Atualmente estou aprendendo: Ciência da Computação &nbsp;|&nbsp; 😄 Pronomes: Ele/Ele</p>
 </div>
 
 <div align="center">
@@ -26,12 +26,6 @@
 <div align="center">
   <h3>📊 Estatísticas e Desempenho</h3>
   <img src="https://streak-stats.demolab.com/?user=Gmotaap-crypto12&theme=dark&background=0d1117&border=30363d&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gmotaap-crypto12&show_icons=true&theme=dark&title_color=4ade80&icon_color=4ade80&ring_color=4ade80&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br />
