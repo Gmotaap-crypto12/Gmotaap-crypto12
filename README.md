@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Olá, eu me chamo Guilherme Mota</h1>
+  <p>🌱 I’m currently learning: Computer Science &nbsp;|&nbsp; 😄 Pronouns: He/Him</p>
+</div>
 
-<!--
-**Gmotaap-crypto12/Gmotaap-crypto12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-mota-169b63352/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Gmotaap-crypto12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/guilh_rme22_sh/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:gui.motaap@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/guilh_rme1" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>📊 Estatísticas e Desempenho</h3>
+  <img src="https://streak-stats.demolab.com/?user=Gmotaap-crypto12&theme=dark&background=0d1117&border=30363d&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gmotaap-crypto12&show_icons=true&theme=dark&title_color=4ade80&icon_color=4ade80&ring_color=4ade80&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🛠️ Stack Tecnológica</h3>
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,python,godot,git&theme=dark" alt="Tecnologias" />
+</div>
